@@ -7,3 +7,11 @@ I took the example code from the [React Docs page for useOptimistic](https://rea
 - TypeScript
 - Tailwind CSS
 - Sanity as the backend
+
+## Get started with Sanity
+
+You can create your own free Sanity project by running the following command in the `/studio` directory:
+
+```bash
+npx sanity@latest init --env
+```
